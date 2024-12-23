@@ -1,0 +1,30 @@
+.perfume-details-section{
+    padding: 20px;
+  }
+  .perfume-details {
+    text-align: center;
+  }
+  .perfume-details img {
+      max-width: 300px;
+      height: auto;
+      object-fit: contain;
+      border-radius: 8px;
+    margin-bottom: 10px;
+  }
+  .perfume-details h2 {
+    margin-bottom: 10px;
+  }
+  .perfume-details p{
+   margin-bottom: 10px;
+  }
+  .perfume-details button {
+      background-color: #5cb85c;
+      color: #fff;
+      border: none;
+      padding: 8px 15px;
+      cursor: pointer;
+      border-radius: 4px;
+  }
+  .perfume-details button:hover {
+      background-color: #4cae4c;
+  }

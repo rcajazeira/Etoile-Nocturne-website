@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "name": "LuxeScents Eau de Parfum",
+        "price": 250.00,
+        "image": "LuxeScents Eau de Parfum.jpeg",
+        "description": "Uma fragrância elegante e duradoura.",
+		"brand": "LuxeScents"
+    },
+    {
+        "id": 2,
+        "name": "LuxeScents Midnight",
+        "price": 280.00,
+        "image": "LuxeScents Midnight.jpeg",
+        "description": "Uma fragrância para a noite.",
+		"brand": "LuxeScents"
+    },
+    {
+        "id": 3,
+        "name": "LuxeScents Sunshine",
+        "price": 240.00,
+        "image": "LuxeScents Sunshine.jpeg",
+        "description": "Uma fragrância solar e vibrante.",
+		"brand": "LuxeScents"
+    },
+    {
+        "id": 4,
+        "name": "LuxeScents Classic",
+        "price": 260.00,
+        "image": "LuxeScents Classic.jpeg",
+        "description": "Uma fragrância clássica e timelessly chic.",
+		"brand": "LuxeScents"
+    },
+    {
+        "id": 5,
+        "name": "LuxeScents Diamond",
+        "price": 290.00,
+        "image": "LuxeScents Diamond.jpeg",
+        "description": "Uma fragrância luxuosa e sofisticada.",
+		"brand": "LuxeScents"
+    },
+    {
+        "id": 6,
+        "name": "LuxeScents Gold",
+        "price": 320.00,
+        "image": "LuxeScents Gold.jpeg",
+        "description": "Uma fragrância opulenta e intensa.",
+		"brand": "LuxeScents"
+    },
+    {
+        "id": 7,
+        "name": "Elegance Perfume 1",
+        "price": 150.00,
+        "image": "Elegance Perfume 1.jpeg",
+        "description": "Uma fragrância elegante.",
+		"brand": "ElegancePerfumes"
+    },
+    {
+        "id": 8,
+        "name": "Elegance Perfume 2",
+        "price": 170.00,
+        "image": "Elegance Perfume 2.jpeg",
+        "description": "Uma fragrância sofisticada e discreta.",
+		"brand": "ElegancePerfumes"
+    },
+    {
+        "id": 9,
+        "name": "Elegance Perfume 3",
+        "price": 160.00,
+        "image": "Elegance Perfume 3.jpeg",
+        "description": "Uma fragrância floral e fresca.",
+		"brand": "ElegancePerfumes"
+    },
+     {
+        "id": 10,
+        "name": "Elegance Perfume 4",
+        "price": 185.00,
+        "image": "Elegance Perfume 4.jpeg",
+        "description": "Uma fragrância frutal e sensual.",
+		"brand": "ElegancePerfumes"
+    },
+    {
+        "id": 11,
+        "name": "Elegance Perfume 5",
+        "price": 195.00,
+        "image": "Elegance Perfume 5.jpeg",
+        "description": "Uma fragrância amadeirada e envolvente.",
+		"brand": "ElegancePerfumes"
+    },
+    {
+        "id": 12,
+        "name": "Elegance Perfume 6",
+        "price": 165.00,
+        "image": "Elegance Perfume 6.jpeg",
+        "description": "Uma fragrância especiada e vibrante.",
+		"brand": "ElegancePerfumes"
+    },
+     {
+        "id": 13,
+        "name": "TrendFragrance Citrus",
+        "price": 180.00,
+        "image": "TrendFragrance Citrus.jpeg",
+        "description": "Uma fragrância cítrica e refrescante.",
+		"brand": "TrendFragrance"
+    },
+    {
+        "id": 14,
+        "name": "TrendFragrance Florzita",
+        "price": 190.00,
+        "image": "TrendFragrance Florzita.jpeg",
+        "description": "Uma fragrância floral e delicada.",
+		"brand": "TrendFragrance"
+    },
+      {
+        "id": 15,
+        "name": "TrendFragrance Fresh",
+        "price": 190.00,
+        "image": "TrendFragrance Fresh.jpeg",
+        "description": "Uma fragrância leve e fresca.",
+		"brand": "TrendFragrance"
+    },
+     {
+        "id": 16,
+        "name": "TrendFragrance Sweet",
+        "price": 185.00,
+        "image": "TrendFragrance Sweet.jpeg",
+        "description": "Uma fragrância doce e jovial.",
+		"brand": "TrendFragrance"
+    },
+     {
+        "id": 17,
+        "name": "TrendFragrance Passion",
+        "price": 200.00,
+        "image": "TrendFragrance Passion.jpeg",
+        "description": "Uma fragrância intensa e apaixonante.",
+		"brand": "TrendFragrance"
+    },
+     {
+        "id": 18,
+        "name": "TrendFragrance Sport",
+        "price": 170.00,
+        "image": "TrendFragrance Sport.jpeg",
+         "description": "Uma fragrância enérgica e esportiva.",
+		"brand": "TrendFragrance"
+    }
+]

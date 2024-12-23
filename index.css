@@ -1,0 +1,38 @@
+.highlight {
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+/* Brands Section */
+.brands-section {
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+.brands-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 20px;
+    padding: 20px;
+}
+.brand {
+    text-align: center;
+    width: 250px;
+}
+.brand img {
+    max-width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.brand button {
+     background-color: #555;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+.brand button:hover {
+background-color: #666;
+}
