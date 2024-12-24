@@ -69,7 +69,7 @@ async function createBrandsSection() {
                  let pageUrl;
                  switch (brandName) {
                      case 'LuxeScents':
-                         pageUrl = 'LuxeScents.html';
+                         pageUrl = 'luxeScents.html';
                          break;
                      case 'ElegancePerfumes':
                          pageUrl = 'elegancePerfumes.html';
